@@ -1,5 +1,5 @@
 # clone-product-page-mercado-livre
-Project developed  cloning a interface of a product page of the mercado livre
+Project developed  cloning a interface a free market product sales page
 
 <h1 align="center">
 UI Clone (Sale Page) - Mercado Livre
